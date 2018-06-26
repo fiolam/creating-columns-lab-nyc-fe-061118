@@ -62,8 +62,9 @@ img:hover {
 .med {
   height: 200%;
   width: 200%;
-#yes{
-  margin-left: 0 auto;
+}  
+#concern{
+  margin-left: 5px;
 }
 .large {
 height:300%;
