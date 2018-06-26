@@ -56,6 +56,9 @@ img:hover {
   height:100%;
   width:100%;
 }
+#galaxy{
+  margin-bottom: 2px;
+}
 .med {
   height: 200%;
   width: 200%;
