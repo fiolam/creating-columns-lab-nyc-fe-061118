@@ -67,4 +67,5 @@ img:hover {
 .large {
 height:300%;
 width:300%;
+float: left;
 }
